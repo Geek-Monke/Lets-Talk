@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lets Talk</string>
+    <!-- All usable hardcoded text goes here -->
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+</resources>
