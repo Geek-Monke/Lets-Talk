@@ -4,4 +4,6 @@
     <string name="username_hint">Email</string>
     <string name="password_hint">Password</string>
     <string name="login_text">Login</string>
+    <string name="chats">Chats</string>
+    <string name="search">Search</string>
 </resources>
