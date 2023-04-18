@@ -4,4 +4,19 @@
     <string name="username_hint">Email</string>
     <string name="password_hint">Password</string>
     <string name="login_text">Login</string>
+    <string name="chats">Chats</string>
+    <string name="search">Search</string>
+    <string name="first_person">Ashesh</string>
+    <string name="sms1">Hi how are you?</string>
+    <string name="sms_send_time">10:10 PM</string>
+    <string name="second_person">Sneha</string>
+    <string name="sms2">hey!</string>
+    <string name="third_person">Arijeet</string>
+    <string name="sms3">falru manager ekta. kono kaj kore na</string>
+    <string name="fourth_person">Debarghya</string>
+    <string name="sms4">saradin reels dekh tui</string>
+    <string name="fifth_person">Diptesh</string>
+    <string name="sms5">kichu bolbo na</string>
+    <string name="sixth_person">Debahuti</string>
+    <string name="sms6">ami holam CR. amay tora pronam kor</string>
 </resources>
