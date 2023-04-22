@@ -13,6 +13,12 @@
         android:theme="@style/Theme.LetsTalk"
         tools:targetApi="31">
         <activity
+            android:name=".recycler_chatScreen"
+            android:exported="false" />
+        <activity
+            android:name=".chat_screen"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

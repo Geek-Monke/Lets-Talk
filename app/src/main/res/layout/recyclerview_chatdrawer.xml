@@ -160,7 +160,7 @@
                 android:layout_height="17dp"
                 android:layout_marginStart="10dp"
                 android:fontFamily="@font/poppins_regular"
-                android:text="@string/sms3"
+                android:text="@string/sms_3"
                 android:textSize="10sp"
                 tools:ignore="SmallSp" />
         </LinearLayout>
